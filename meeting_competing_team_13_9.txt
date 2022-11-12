@@ -1,0 +1,9 @@
+- Xem bản đánh giá các công ty, đề tài công ty
+- Lên kế hoạch cho việc họp hôm nay
+ + 7:30 - 8h: THời gian trễ
+ + 8h - 8h20: Tìm hiểu lẫn nhau, khảo sát chút về sở thích, sở trường sở đoản
+ + 8h20 - 8h45: 2 câu hỏi để biết được trình độ lập trình, tư duy logic và khả năng làm việc nhóm
+	* Câu hỏi tư duy logic của anh Học, VinID
+	* Tìm 2 số có tổng bằng k cho trước
+	* Tìm subsequence có tổng lớn nhất
+ + 8h45 - 10h: thảo luận, đưa ra ý kiến chốt cho đề tài cần trình bày

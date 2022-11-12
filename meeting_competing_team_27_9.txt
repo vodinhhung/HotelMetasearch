@@ -1,0 +1,16 @@
+- Nhiệm vụ chính:
+ + Thống nhất idea:
+	* flow của người dùng 
+	* tính năng đặc trưng của người dùng có thể làm được hơn so với guest
+	* Làm app hay web
+ + Nêu ra các khó khăn đối với  back-end trong việc train model; khả năng của team làm tới được mức nào
+ + Đưa ra giao diện draft cho ứng dụng
+ + (*) Xác định được nhiệm vụ tuần sau của team
+
+- Kế hoạch:
+ + 14h - 14h15: Thời gian trễ 
+ + 14h15 - 14h45: Làm sn cho nguyệt
+ + 14h45 - 15h30: Thảo luận, thống nhất giao diện của người dùng
+ + 15h30 - 16h15: Thảo luận về các khó khăn của team back-end 
+ 	(APi nên ntn? làm gì trước, làm gì sau, uc nào trước, bao nhiêu vòng lặp)
+ + 16h15 - 17h: Thống nhất việc cần làm tuần sau

@@ -1,0 +1,25 @@
+Plan buổi họp DevC Competing team 25/10:
+
+14:00 - 14:30: Thời gian trễ
+
+14:30 - 15:00: Ôn thêm các kiến thức về git
+
+15:00 - 15:30: Các vấn đề của front-end
+ - Thảo luận về các vấn đề về UI
+ - Cần thêm các tính năng/ ui gì
+
+ * Target:
+   + Đưa ra các ui cần thêm: Sửa lại ui về hotel_list
+   + Đưa ra một số giải pháp ui cần phải bổ sung, sửa đổi: Giải pháp về ui của search, filter, homepage 
+   
+16:00 - 17:00: Các vấn đề về back-end
+ - Thảo luận về API
+ - Thảo luận về các vấn đề phát triển thêm về Machine Learning
+ 
+ * Target:
+   + Confirm về deadline làm API: hoàn thành api hotel_list trong thứ 4, hoàn thành api hotel_list có filter trước chủ nhật tuần sau 
+   + COnfirm về việc làm ML, áp dụng code machine learning:
+  
+Các milestone của tuần sau:
+ - Hoàn thành api hotel_list trong thứ 4, hoàn thành api hotel_list có filter trước chủ nhật tuần sau
+ - Hoàn thành ui của hotel_list vào cuối tuần sau, ui của filter vào cuối tuần sau
